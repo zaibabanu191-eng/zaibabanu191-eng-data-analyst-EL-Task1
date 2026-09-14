@@ -1,5 +1,5 @@
 # zaibabanu191-eng-data-analyst-EL-internship
-# Data Analyst Netflix dashboard
+# Data Analyst Netflix dataset
 ## Data Cleaning and Preprocessing
 ### Dataset
 Netflix Movies and TV Shows
