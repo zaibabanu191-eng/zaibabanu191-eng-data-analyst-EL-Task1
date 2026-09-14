@@ -1,5 +1,5 @@
 # zaibabanu191-eng-data-analyst-EL-internship
-# Data Analyst Internship – Task 1
+# Data Analyst Netflix dashboard
 ## Data Cleaning and Preprocessing
 ### Dataset
 Netflix Movies and TV Shows
@@ -17,7 +17,10 @@ Microsoft Excel
 - Performed a final data quality check
 
 ### Deliverable
-The cleaned Netflix dataset is provided in `Netflix_Data_Cleaning.xlsx`.
+The cleaned Netflix dataset is provided in `Netflix_data AT .xlsx`.
+
+### Power Bi
+Create a Netflix dashboard using power bi. provided in 'Netflix.pbix'.
 
 ## Objective
 The objective of this task was to clean and prepare the raw Netflix dataset for further analysis.
